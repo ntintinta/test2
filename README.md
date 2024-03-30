@@ -1,2 +1,2 @@
-# test2
+# Example of README.md
 HELLO
